@@ -2,3 +2,5 @@ name = "v20250907"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
 keep_vars = true
+# wrangler.toml
+name = '9090'
